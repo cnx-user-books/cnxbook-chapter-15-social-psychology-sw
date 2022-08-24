@@ -1,64 +1,21 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Stephen E. Wisecarver">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11809</md:content-id>
-  <md:title>Chapter 15: Social Psychology SW</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>715888ee-321c-4f4e-9e17-c3556f0ed8ef</md:uuid>
-<md:slug>chapter-15-social-psychology-sw</md:slug>
-</metadata>
-
+    <md:content-id>col11809</md:content-id>
+    <md:title>Chapter 15: Social Psychology SW</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>715888ee-321c-4f4e-9e17-c3556f0ed8ef</md:uuid>
+    <md:slug>chapter-15-social-psychology-sw</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m55930"/>
-        
-      
-    
-    
-      <col:module document="m55931"/>
-        
-      
-    
-    
-      <col:module document="m55933"/>
-        
-      
-    
-    
-      <col:module document="m55934"/>
-        
-      
-    
-    
-      <col:module document="m55935"/>
-        
-      
-    
-    
-      <col:module document="m55936"/>
-        
-      
-    
-    
-      <col:module document="m55937"/>
-        
-      
-    
-    
-      <col:module document="m55939"/>
-        
-      
-    
+    <col:module document="m55930"/>
+    <col:module document="m55931"/>
+    <col:module document="m55933"/>
+    <col:module document="m55934"/>
+    <col:module document="m55935"/>
+    <col:module document="m55936"/>
+    <col:module document="m55937"/>
+    <col:module document="m55939"/>
   </col:content>
 </col:collection>
